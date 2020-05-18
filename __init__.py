@@ -1,1 +1,1 @@
-from dna.api import dna
+from api import dna
