@@ -26,4 +26,4 @@ This module will interact with Tor to get real time statistical and analytical i
 |-created- circuit created info.<br/>
 |-signal-signal control port like NEWNYM,RELOAD etc.<br/>
 |-get_fingerprint-the contents of the fingerprint file that Tor writes as a relay, or a 551 if we're not a relay currently.<br/>
-!-get_network_status-network status of a relay with given fingerprint.<br/>
+|-get_network_status-network status of a relay with given fingerprint.<br/>
